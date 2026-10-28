@@ -3,9 +3,6 @@
 ## 專案簡介
 本專案為人工智慧課程期中報告，主要實作並記錄如何在 Google Colaboratory 雲端環境中配置 GPU 資源、掛載 Google Drive 雲端硬碟、載入 CIFAR-10 資料集，並透過 PyTorch 官方預訓練模型 ResNet-18 於 GPU 上完成前向推論（Inference）之完整 AI 流程。
 
-## 個人資訊
-- **姓名**：劉彥甫
-- **學號**：11225034
 
 ## 實作環境與規格
 - **雲端運算平台**：Google Colaboratory
